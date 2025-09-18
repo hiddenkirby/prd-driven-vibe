@@ -15,4 +15,15 @@ git branch -M main
 git remote add origin git@github.com:hiddenkirby/<project_name>.git
 git push -u origin main
 ```
-6. 
+6. Open Cursor chat and type the following
+```
+@02-prd-create.mdc I want to build a full-stack webapp, beautifuly styled and responsive on mobile and tablet.
+
+I want to keep things small and simple to start, and add the more complex features later on. 
+
+The purpose of the app is to ...
+
+The core functionality ...
+
+Some key user flows are ...
+```

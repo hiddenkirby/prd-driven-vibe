@@ -27,3 +27,7 @@ The core functionality ...
 
 Some key user flows are ...
 ```
+7. Review the PRD: `Run @<newlycreatedplan.md> through @03-prd-review.mdc to validate assumptions`
+It will review and also create an execute plan.
+8. Make any adjustments needed. (some decision points may have been raised)
+9. Start Implementation: `Use @04-prd-execute.mdc to begin Phase 1`
